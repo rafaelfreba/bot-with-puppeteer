@@ -1,0 +1,12 @@
+{
+    "name" : "bot-with-puppeteer",
+    "version" : "1.0.0",
+    "description" : "bot to change process location status in SES-MT protocol system",
+    "main" : "index.js",
+    "keywords" : [],
+    "author" : {
+        "name" : "Rafael Batista",
+        "email" : "frebadev@gmail.com"
+    },
+    "licence" : "MIT"
+}
